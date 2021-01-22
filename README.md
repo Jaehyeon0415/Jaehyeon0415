@@ -5,11 +5,8 @@
 
 - 🌱 I’m currently learning
 
-
     ... Flutter 
 
-
     ... Java
-
 
     ... Kotlin
