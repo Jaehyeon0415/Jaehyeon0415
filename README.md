@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... :)
 - 🌱 I’m currently learning
-... Flutter 
-... Java
-... Kotlin
+\n... Flutter 
+\n... Java
+\n... Kotlin
 
