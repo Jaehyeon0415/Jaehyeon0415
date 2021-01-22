@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning
 
 
-... Flutter 
+    ... Flutter 
 
 
-... Java
+    ... Java
 
 
-... Kotlin
+    ... Kotlin
