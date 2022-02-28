@@ -1,12 +1,15 @@
-### Hi there 👋
+### 🧑🏻‍💻 Flutter Developer
 
-- 🔭 I’m currently working on ... :)
-
+- 🏢 Kune Inc. - Litness(리트니스)
 
 - 🌱 I’m currently learning
 
-    ... Flutter 
+    ... WebRTC
     
-    ... Java
+    ... Electron
+
+- 🕹 I’m currently developing
+
+    ... Flutter Zoom Meeting SDK plugin
     
-    ... Kotlin
+    ... Flutter WebRTC by Janus
