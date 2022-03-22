@@ -9,9 +9,8 @@
 
 ### 🌱 Learn
 
+- Flutter
 - WebRTC
-- Electron
-- Vusjs
 
 ### 💻 Develop
 
