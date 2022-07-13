@@ -10,10 +10,3 @@
 ### 🌱 Learn
 
 - Flutter
-- WebRTC
-
-### 💻 Develop
-
-- [Flutter] Zoom Meeting SDK customized UI plugin
-- [Flutter] Home workout service used Twilio WebRTC
-- [Flutter] Home workout service used Janus WebRTC
