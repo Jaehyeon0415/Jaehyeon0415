@@ -2,8 +2,6 @@
 
 ### 🧑🏻‍💻 Flutter Developer
 
-- 🏢 Kune Inc. - Litness(리트니스)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeon0415)](https://github.com/anuraghazra/github-readme-stats)
 
 
